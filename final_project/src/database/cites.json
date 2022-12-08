@@ -1,0 +1,49 @@
+{
+  "cities":[
+    {
+      "name":"Vushtrri1",
+      "id":1,
+      "Age":1922,
+      "src": "https://d11udzuu2adwwu.cloudfront.net/covers/1294051/9781784703936.jpg",
+      "location":"Kosova",
+      "postalcode":42000
+
+    },
+    {
+      "name":"Vushtrri",
+      "id":2,
+      "Age":1922,
+      "postalcode":42000,
+      "src": "https://d11udzuu2adwwu.cloudfront.net/covers/1294051/9781784703936.jpg",
+      "location":"Kosova"
+    },
+    {
+      "name":"Vushtrri",
+      "id":3,
+      "Age":1922,
+      "postalcode":42000,
+      "src": "https://d11udzuu2adwwu.cloudfront.net/covers/1294051/9781784703936.jpg",
+      "location":"Kosova"
+    },
+    {
+      "name":"Vushtrri",
+      "id":3,
+      "Age":1922,
+      "postalcode":42000,
+      "src": "https://d11udzuu2adwwu.cloudfront.net/covers/1294051/9781784703936.jpg",
+      "location":"Kosova"
+    }, {
+      "name":"Vushtrri",
+      "id":3,
+      "Age":1922,
+      "src": "https://d11udzuu2adwwu.cloudfront.net/covers/1294051/9781784703936.jpg",
+      "location":"Kosova"
+    }, {
+      "name":"Vushtrri",
+      "id":3,
+      "Age":1922,
+      "src": "https://d11udzuu2adwwu.cloudfront.net/covers/1294051/9781784703936.jpg",
+      "location":"Kosova"
+    }
+  ]
+}
