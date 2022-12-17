@@ -1,45 +1,47 @@
 import Carousel from 'react-bootstrap/Carousel';
 
-function Slider() {
+function CarouselFadeExample() {
   return (
-    <Carousel variant="dark" style={{postion:"relative"}}>
+    <Carousel fade id="si">
       <Carousel.Item>
         <img
-          className="d-block w-100 "
-          src="https://www.wanderlustingk.com/wp-content/uploads/2017/10/kosovo-5616101449_orig.jpg"
+          className="d-block w-100"
+          src="https://images.hdqwalls.com/wallpapers/valorant-2020-5k-dq.jpg"
+          alt="Third slide"
+        />
+
+        <Carousel.Caption>
+          <h1>Valorant</h1>
+          <p className='fs-3'>
+          Valorant is a free-to-play first-person tactical hero shooter developed and published by Riot Games, for Windows.
+          </p>
+        </Carousel.Caption>
+      </Carousel.Item>
+      <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://www.gadgetsloud.com/wp-content/uploads/2020/04/PubG-Wallpaper.jpg"
           alt="First slide"
         />
         <Carousel.Caption>
-          <h5>First slide label</h5>
-          <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+          <h1>Pubg</h1>
+          <p className='fs-4'>PUBG: Battlegrounds (previously known as PlayerUnknown's Battlegrounds) is a battle royale game developed by PUBG Studios and published by Krafton.</p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="https://www.wanderlustingk.com/wp-content/uploads/2017/10/kosovo-3016101515_orig.jpg"
+          src="https://dmarket.com/blog/best-csgo-wallpapers/tercsgo_huc01d3a403c050d47715d6aeed15b344f_839613_1920x1080_resize_q100_lanczos.jpg"
           alt="Second slide"
         />
+
         <Carousel.Caption>
-          <h5>Second slide label</h5>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-        </Carousel.Caption>
-      </Carousel.Item>
-      <Carousel.Item>
-        <img
-          className="d-block w-100"
-          src="https://images.unsplash.com/photo-1669915746165-232236839501?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80"
-          alt="Third slide"
-        />
-        <Carousel.Caption>
-          <h5>Third slide label</h5>
-          <p>
-            Praesent commodo cursus magna, vel scelerisque nisl consectetur.
-          </p>
+          <h3 className='text-dark'>CSGO</h3>
+          <p className='text-dark fs-4 tx-bold'>Counter-Strike: Global Offensive (CS:GO) is a 2012 multiplayer tactical first-person shooter developed by Valve and Hidden Path Entertainment. </p>
         </Carousel.Caption>
       </Carousel.Item>
     </Carousel>
   );
 }
 
-export default Slider;
+export default CarouselFadeExample;

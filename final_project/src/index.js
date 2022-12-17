@@ -5,13 +5,13 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import Header from "./components/Navbar";
 import "./App.css"
-import Slider from './components/Slider';
+import CarouselFadeExample from './components/Slider';
 import Footer from './components/Footer';
 const Index = () => {
   return (
     <>
     <Header/>
-    <Slider/>
+    <CarouselFadeExample/>
     <App/>
     <Footer/>
     </>

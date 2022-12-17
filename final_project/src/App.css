@@ -10,8 +10,8 @@
   padding: 90px;
   
 }
-.edonis{
-  position: relative;
+.navbar {
+  position: sticky;
 }
 .ss{
   box-shadow:5px 10px 8px 5px#888888;
@@ -19,4 +19,8 @@
 }
 .ss:hover{
   transform: scale(1.1);
+}
+.d-flex {
+  position: sticky;
+  color: tomato;
 }

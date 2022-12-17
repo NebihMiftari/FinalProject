@@ -22,7 +22,7 @@ const Footer = () => {
         <Row>
          
           <Column>
-            <Heading>Social Media</Heading>
+            
             <FooterLink href="https://www.facebook.com/ThisisNebiih?mibextid=LQQJ4d">
               <i className="fab fa-facebook-f">
                 <span style={{ marginLeft: "10px" }}>

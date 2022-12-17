@@ -1,49 +1,60 @@
 {
   "cities":[
     {
-      "name":"Vushtrri1",
+      "name":"Pubg",
       "id":1,
-      "Age":1922,
-      "src": "https://d11udzuu2adwwu.cloudfront.net/covers/1294051/9781784703936.jpg",
-      "location":"Kosova",
-      "postalcode":42000
+      "Age":2017,
+      "src": "https://wallpaperaccess.com/full/1272738.jpg",
+      "location":"Worldwide",
+      "downloads":"1,770 million players"
 
     },
     {
-      "name":"Vushtrri",
+      "name":"CSGO",
       "id":2,
-      "Age":1922,
+      "Age":2012,
       "postalcode":42000,
-      "src": "https://d11udzuu2adwwu.cloudfront.net/covers/1294051/9781784703936.jpg",
-      "location":"Kosova"
+      "src": "https://r1.ilikewallpaper.net/iphone-11-wallpapers/download-108630/csgo-minimal-5k.jpg",
+      "location":"Worldwide",
+      "downloads":"46 million players"
     },
     {
-      "name":"Vushtrri",
+      "name":"Valorant",
       "id":3,
-      "Age":1922,
+      "Age": 2019,
       "postalcode":42000,
-      "src": "https://d11udzuu2adwwu.cloudfront.net/covers/1294051/9781784703936.jpg",
-      "location":"Kosova"
+      "src": "https://i.pinimg.com/736x/43/51/66/435166d45c9abbc1b132090f1d33a425.jpg",
+      "location":"Worldwide",
+      "downloads":"22 million players"
+
     },
     {
-      "name":"Vushtrri",
+      "name":"Apex Legends",
       "id":3,
-      "Age":1922,
+      "Age":2019,
       "postalcode":42000,
-      "src": "https://d11udzuu2adwwu.cloudfront.net/covers/1294051/9781784703936.jpg",
-      "location":"Kosova"
-    }, {
-      "name":"Vushtrri",
+      "src": "https://i.pinimg.com/originals/ff/c5/3a/ffc53a7a808b11990ffcdfac2396e7aa.jpg",
+      "location":"Worldwide",
+      "downloads":"403.16 thousands players"
+
+    },  {
+      "name":"Minecraft",
       "id":3,
-      "Age":1922,
-      "src": "https://d11udzuu2adwwu.cloudfront.net/covers/1294051/9781784703936.jpg",
-      "location":"Kosova"
+      "Age":2011,
+      "postalcode":42000,
+      "src": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2d1c621d-8751-469b-837d-9a46cd1d7cfa/d5yjimq-bbf7eb89-c21a-470a-9eca-653ccf9a67c6.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJkMWM2MjFkLTg3NTEtNDY5Yi04MzdkLTlhNDZjZDFkN2NmYVwvZDV5amltcS1iYmY3ZWI4OS1jMjFhLTQ3MGEtOWVjYS02NTNjY2Y5YTY3YzYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.vCZslZe2nRs8YHP0JnuvJz2qdQvhu0n161K-01QP4tE",
+      "location":"Worldwide",
+      "downloads":"93 million players"
+
     }, {
-      "name":"Vushtrri",
+      "name":"Dota 2",
       "id":3,
-      "Age":1922,
-      "src": "https://d11udzuu2adwwu.cloudfront.net/covers/1294051/9781784703936.jpg",
-      "location":"Kosova"
+      "Age":2013,
+      "postalcode":42000,
+      "src": "https://wallpapercave.com/wp/wp2964777.jpg",
+      "location":"Worldwide",
+      "downloads":"747.51 thousands players"
+
     }
   ]
 }
